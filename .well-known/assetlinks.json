@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.beraber06.yanlisdefterim",
+      "sha256_cert_fingerprints": [
+        "BC:A0:16:02:46:87:91:5E:8A:C8:46:EF:4E:96:29:4D:9F:71:47:91:CD:24:C9:EF:E9:E1:A8:71:82:1A:AA:73"
+      ]
+    }
+  }
+]
